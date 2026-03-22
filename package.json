@@ -1,0 +1,21 @@
+{
+  "name": "github-star-history",
+  "version": "1.0.0",
+  "description": "GitHub repo star history tracker - chart a repo's stars over time",
+  "main": "index.js",
+  "bin": {
+    "github-star-history": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["github", "stars", "history", "cli"],
+  "author": "Chengyi Xu",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cli-table3": "^0.6.3",
+    "chalk": "^4.1.2"
+  }
+}
