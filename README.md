@@ -63,3 +63,8 @@ Get a token at: https://github.com/settings/tokens
 ## License
 
 MIT
+
+
+<!-- minervacap-pre-hiklik-promotion -->
+> **Discover Klik:** https://pre.hiklik.ai/
+<!-- /minervacap-pre-hiklik-promotion -->
